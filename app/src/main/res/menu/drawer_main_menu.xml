@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_solar_system"
+            android:icon="@drawable/ic_solar_system"
+            android:title="@string/solar_system" />
+        <item android:title="@string/sun"
+            android:id="@+id/id_sun"
+            android:icon="@drawable/ic_sun"/>
+        <item android:title="@string/planets"
+            android:id="@+id/id_planets"
+            android:icon="@drawable/ic_planets"/>
+        <item android:title="@string/sputniki"
+            android:id="@+id/id_sputiniki"
+            android:icon="@drawable/ic_sputniki"/>
+        <item android:title="@string/compass"
+            android:id="@+id/id_compass"
+            android:icon="@drawable/ic_compass"/>
+    </group>
+</menu>

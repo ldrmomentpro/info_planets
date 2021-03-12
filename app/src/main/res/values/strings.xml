@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Planets</string>
+    <string name="solar_system">Солнечная система</string>
+    <string name="planets">Планеты</string>
+    <string name="sun">Солнце</string>
+    <string name="sputniki">Спутники</string>
+    <string name="compass">Компас</string>
+</resources>
